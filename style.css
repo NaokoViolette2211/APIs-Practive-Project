@@ -1,0 +1,37 @@
+label {
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+button {
+  display: initial;
+  margin-top: 20px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  width: 20%;
+  padding: 5px;
+  background-color: pink;
+  color: black;
+  border: none;
+  box-shadow: 5px 5px 6px 0px rgba(145,127,139,0.75);
+  font-family: 'Bungee Shade', cursive;
+}
+
+#mainBox {
+  /* background-color: pink; */
+  border: 2px solid pink;
+  box-shadow: 5px 5px 11px 0px rgba(214,129,185,0.75);
+}
+
+#questionBox {
+  padding-left: 10px;
+  /* padding-top: 10px; */
+}
+
+#title {
+font-family: 'Bungee Shade', cursive;
+/* font-family: 'Playfair Display', serif; */
+  padding-left: 5px;
+  font-size: 40px;
+}
+
+
